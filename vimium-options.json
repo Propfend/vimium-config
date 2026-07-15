@@ -1,0 +1,7 @@
+{
+    "filterLinkHints": true,
+    "ignoreKeyboardLayout": true,
+    "keyMappings": "# Insert your preferred key mappings here.\n\nmap j scrollLeft\nmap k scrollUp\nmap l scrollDown\nmap ç scrollRight\n\nmap . nextTab\nmap , previousTab\n\nmap <Space>j goBack\nmap <Space>ç goForward\nmap q removeTab\n\nunmap x\nunmap J",
+    "newTabDestination": "browserNewTabPage",
+    "settingsVersion": "2.4.2"
+}
