@@ -1,0 +1,32 @@
+{
+    "name": "Vimium C",
+    "environment": {
+        "extension": "2.12.2",
+        "platform": "linux",
+        "chromium": 150
+    },
+    "keyLayout": 2,
+    "keyMappings": [
+        "#!no-check",
+        "mapKey ; l",
+        "mapKey l j",
+        "mapKey j h",
+        "",
+        "map t createTab",
+        "",
+        "unmap h",
+        "",
+        "map . nextTab",
+        "map , previousTab",
+        "",
+        "map <space>, goBack",
+        "map <space>. goForward",
+        "map q removeTab",
+        "",
+        "unmap x",
+        "unmap J",
+        ""
+    ],
+    "linkHintCharacters": "123456789",
+    "vimSync": true
+}
